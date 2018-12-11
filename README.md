@@ -10,3 +10,6 @@
 
 3. Implement frequently occurring computer science algorithms and data structures.
    * For example [this list](https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac).
+   * [another curated list](https://github.com/cyberglot/awesome-answers)
+   * [another curated list](https://github.com/tayllan/awesome-algorithms)
+   * [another curated list](https://github.com/gaerae/awesome-algorithms)
