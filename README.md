@@ -8,4 +8,5 @@
 
 2. Implement data structures from [GeekForGeeks](https://www.geeksforgeeks.org/data-structures/) website. It has a list of data sturctures listed, their explanations as well as C++ solution (which you can use to validate with your own solution).
 
-3. _list to be updated..._
+3. Implement frequently occurring computer science algorithms and data structures.
+   * For example [this list](https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac).
