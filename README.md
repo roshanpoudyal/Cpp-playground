@@ -9,6 +9,7 @@
    > Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
 2. Implement data structures from [GeekForGeeks](https://www.geeksforgeeks.org/data-structures/) website. It has a list of data sturctures listed, their explanations as well as C++ solution (which you can use to validate with your own solution).
+      - For implementation examples look these repositories - [here](https://github.com/PetarV-/Algorithms.git) and [here]().
 
 3. Implement frequently occurring computer science algorithms and data structures.
    * For example [this list](https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac).
